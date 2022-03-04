@@ -1,5 +1,7 @@
 ﻿# 悟空CRM移动端界面适配
 
+github不更新了，图片都显示不了，去gitee吧。
+
 ## 源码
 [https://gitee.com/dt27/material-ui-72crm-web](https://gitee.com/dt27/material-ui-72crm-web)
 
